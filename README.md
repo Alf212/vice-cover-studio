@@ -32,6 +32,15 @@ locally and drawn on a canvas in the page; they are never uploaded.
 - **Post sizes in one click** — export a PNG at 1080 × 1080, 1080 × 1350
   or 1920 × 1080.
 
+## Screenshots
+
+- `screenshots/1-cover.jpg` — a wide cover the app exported (1920 × 1080,
+  Classic Five, Vice Sunset).
+- `screenshots/2-editor.jpg` — the editor with the sample photos loaded.
+- `screenshots/3-cover-portrait.jpg` — a portrait cover it exported
+  (1080 × 1350, Hero Trio, Neon Nights).
+- `screenshots/4-editor-neon.jpg` — the editor making that portrait cover.
+
 ## Run it
 
 Serve the folder any way you like, or use the bundled server:
